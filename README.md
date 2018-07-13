@@ -11,7 +11,7 @@ When the automatic robot reaches the third throwing zone, it has to throw a shut
 The dark green region can only be accessed by automatic bot, while the light green area is accessible by both - automatic and manual bot. The cross-section right before the Automatic Robot Zone is the loading point, where the shuttle is handed by the manual bot. Details of the arena are shown below.
 
 ![Arena](./img/Arena.png)
-![Zones](./img/Zones.png)
+![Zones](./img/Zones.PNG)
 
 ## Line following system (LFS)
 
